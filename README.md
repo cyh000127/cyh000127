@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=F4BBBB&text=Hi,%20I'm%20Yunheok&textBg=false&section=header&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=F4BBBB&text=Hi,%20I'm%20Yunheok&textBg=false&section=header&fontAlign=50" width="100%" />
   <br>
       
   <!-- Title Typing Effect -->
@@ -31,8 +31,9 @@
 ![notion](https://img.shields.io/badge/notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black)
 
 ### Experiences
-- 2024.05 ~ 2024.10: KB IT's Your Life 5기 
 - 2018.03 ~ 2024.02: 강릉원주대학교 재학 
+- 2024.05 ~ 2024.10: KB IT's Your Life 5기 
+- 2025.07 ~        : 삼성 청년 SW AI 아카데미 14기
 
 ### Certificates
 - 정보처리기사
