@@ -44,7 +44,7 @@
 - 2024 KB IT’s Your Life 해커톤 **[Ohsun-Dosun](https://github.com/cyh000127/ohsundosun)** - 아이디어상 수상
 
 ### BaekJoon
-https://mazassumnida.wtf/api/v2/generate_badge?boj=okccc5
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okccc5)](https://solved.ac/okccc5/)
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=F4BBBB&textBg=false&section=footer&fontAlign=50" width="100%"/>
