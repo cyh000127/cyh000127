@@ -6,10 +6,10 @@
   <!-- Title Typing Effect -->
 </div>
 
-## 🙇 안녕하세요, 새싹 Programmer 최윤혁 입니다!
+## 안녕하세요, 새싹 Programmer 최윤혁 입니다!
 
 ### Skills
-**🧑‍💻 Lang and Frameworks**
+** Lang and Frameworks**
 
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -42,6 +42,9 @@
 ### Awards
 - KB IT's Your Life 5기 종합실무프로젝트 **[Song-E Pay](https://github.com/cyh000127/song-e-pay)** - 최우수상 수상
 - 2024 KB IT’s Your Life 해커톤 **[Ohsun-Dosun](https://github.com/cyh000127/ohsundosun)** - 아이디어상 수상
+
+### BaekJoon
+https://mazassumnida.wtf/api/v2/generate_badge?boj=okccc5
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=F4BBBB&textBg=false&section=footer&fontAlign=50" width="100%"/>
