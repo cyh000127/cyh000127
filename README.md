@@ -1,11 +1,3 @@
-<div align="center">
-  <!-- Header banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=F4BBBB&text=Hi,%20I'm%20Yunheok&textBg=false&section=header&fontAlign=50" width="100%" />
-  <br>
-      
-  <!-- Title Typing Effect -->
-</div>
-
 ## 안녕하세요, 새싹 Programmer 최윤혁 입니다!
 
 ### Skills
@@ -45,6 +37,3 @@
 
 ### BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okccc5)](https://solved.ac/okccc5/)
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=F4BBBB&textBg=false&section=footer&fontAlign=50" width="100%"/>
