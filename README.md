@@ -27,7 +27,7 @@
 - 2024.05 ~ 2024.10: KB IT's Your Life 5기 
 - 2025.07 ~        : 삼성 청년 SW AI 아카데미 14기
 
-### Certificates
+### Certificates.
 - 정보처리기사
 - SQL개발자(SQLD)
 
